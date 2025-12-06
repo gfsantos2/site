@@ -1,0 +1,26 @@
+/* Arquivo de estilos personalizados */
+/* Habilita rolagem suave ao usar links âncora (ex.: Voltar para o topo) */
+html {
+  scroll-behavior: smooth;
+  background-color: #ffffff;
+}
+
+body {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+/* Títulos em azul escuro */
+h1, h2, h3, h4, h5, h6 {
+  color: #0b3d91;
+}
+
+/* Parágrafos com texto preto */
+p {
+  color: #000000;
+}
+
+/* Espaçamento extra no footer */
+footer {
+  margin-top: 2rem;
+}
